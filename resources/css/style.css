@@ -24,5 +24,6 @@ a {
 }
 
 .footer {
-  text-align: left;
+  text-align: right;
+  color: gray;
 }
